@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @psriprac
-- 👀 I’m interested in Game and Web Development!
-- 🌱 I’m currently learning lots of things: HTML, CSS, JavaScript, React, Node.js, Sass, and Less on the web side. For Games I'm learning Unity, Blender, and FL Studio!
-- 💞️ I’m looking to collaborate on any game or web project that I think I would contribute well to.
-- 📫 How to reach me please email me at psriprac@gmail.com or visit my blog at [coderpat.com](https://www.coderpat.com/).
+- 👀 Thanks for visiting my GitHub. I do a lot of learning here so lots of projects are incomplete... But some of them are complete.
+
+Please visit me at https://sriprachandr.netlify.app/
 
 <!---
 psriprac/psriprac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
